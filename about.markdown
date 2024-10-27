@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Descripción
 permalink: /about/
 ---
 
-Web personal sobre relatos y aventuras vividas
+Web personal para escribir
