@@ -4,7 +4,7 @@ title: "Rompiendo el ritmo"
 category: relatos
 ---
 
-![alt text](/assets/images/run.png) 
+![alt text](/assets/images/correr.png) 
 
 
 Marcos se sentó en su escritorio y miró fijamente la pantalla. Era otro día en la oficina, otro día más vendiendo ilusiones. Como estratega de marketing, su trabajo consistía en encontrar formas creativas de manipular los deseos y las inseguridades de las personas, todo en nombre del beneficio empresarial.
