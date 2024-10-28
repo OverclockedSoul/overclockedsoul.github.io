@@ -3,5 +3,4 @@ layout: page
 title: Descripción
 permalink: /about/
 ---
-
-Web personal para escribir
+Web donde pongo mis escritos hechos con la ayuda de diferentes IAs.
