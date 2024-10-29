@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rompiendo el ritmo"
-category: relatos
+category: relatos erotica
 ---
 
 ![alt text](/assets/images/correr.png) 

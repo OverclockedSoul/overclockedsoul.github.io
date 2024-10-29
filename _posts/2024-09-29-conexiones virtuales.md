@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conexiones virtuales"
-categories: relatos
+categories: relatos dark
 ---
 
 ![alt text](/assets/images/conexiones_virtuales.jpeg)

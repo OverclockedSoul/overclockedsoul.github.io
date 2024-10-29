@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tinder companion"
-categories: relatos
+categories: relatos scifi
 ---
 
 ![alt text](/assets/images/tinder.png)

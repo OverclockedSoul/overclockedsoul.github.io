@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ciber Ángel"
-categories: relatos
+categories: relatos dark
 ---
 
 ![alt text](/assets/images/angel_digital.jpeg)
