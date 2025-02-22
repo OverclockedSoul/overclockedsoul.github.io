@@ -6,6 +6,7 @@ categories: relatos scifi
 
 
 -Entens que implica firmar aquest document
+
 -Sí, he llegit totes les condicions i estic 100% segur, vull aquest canvi a la meva vida.
 
 En Marc es trobava dintre de l'oficina de Mind Reset. Aquesta empresa innovadora proposava un servei únic. La modificació sistemàtica de tots els algoritmes de recomanació d'un usuari. Des de les xarxes socials fins als motors de cerca, cada plataforma digital que en Marc utilitzava seria alterada per començar a mostrar-li contingut dissenyat per canviar gradualment la seva manera de pensar, els seus interessos i, en última instància, la seva personalitat sencera. Era una intervenció subtil, però profunda en el seu univers digital, una forma de reprogramació mental a través del control minuciós del que veuria a les seves pantalles dia rere dia.
