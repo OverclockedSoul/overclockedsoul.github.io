@@ -54,7 +54,7 @@ Desafortunadamente, la realidad me golpea al instante: ¿ahora qué escribo en e
 
 “¿No sabes qué decir? Prueba FlirtBot, el chatbot inteligente que tomando tu personalidad chatea por ti por solo 9.99 € al mes.”
 
-Sin pensarlo dos veces, hago clic en ‘Suscribir’. Una mezcla de emoción y alivio invade mi cuerpo. Veo llegar a los turistas y activo mi implante para que se encargue de entretener a esos panolis. Mientras tanto, yo duermo, sabiendo que FlirtBot estará trabajando en segundo plano, acercándome poco a poco a esa persona que a lo mejor iluminará mi vida.
+Sin pensarlo dos veces, hago clic en ‘Suscribir’. Una mezcla de emoción y alivio invade mi cuerpo. Veo llegar a los turistas y activo mi implante para que se encargue de entretener a esos NPCs. Mientras tanto, yo duermo, sabiendo que FlirtBot estará trabajando en segundo plano, acercándome poco a poco a esa persona que a lo mejor iluminará mi vida.
 
 El implante me despierta al fin de mí ultimó tour. Con una mezcla de curiosidad y ansiedad, echo un vistazo a mi móvil. Me quedo atónito: FlirtBot ha logrado concretar una cita y tengo que estar listo en una hora. Salgo disparado hacia mi casa para arreglarme, deseando causar una primera buena impresión.
 
